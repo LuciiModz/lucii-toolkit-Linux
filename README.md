@@ -48,7 +48,7 @@ python3 lucii.py
 | 15 | MALWARE ANALYSIS | 7     | VirusTotal, PE analysis, strace, packer detect, deobfuscate PowerShell |
 | 16 | C2 FRAMEWORK     | 8     | Sliver C2 Server, Sliver Implant Gen, Havoc C2 Start, Covenant C2, SimpleHTTP C2, DNS C2 Setup, ICMP C2, Cobalt Strike Aggressor |
 | 17 | WIRELESS / RF    | 10    | WiFi Monitor Mode, WPA Handshake Cap, Deauth Attack, WPA Crack Hashcat, PMKID Attack, Evil Twin AP, Bluetooth Scan, BLE Scan, SDR Signal Capture, WPS Pin Attack |
-| PLUS 4 MORE TABS |    | 28    | INSTALL THE TOOL TODAY AND HAVE FUN YOU LITTLE HACKERS |
+| ... | PLUS 4 MORE TABS | 28   | INSTALL THE TOOL TODAY AND HAVE FUN YOU LITTLE HACKERS |
 ---
 
 ## Usage
