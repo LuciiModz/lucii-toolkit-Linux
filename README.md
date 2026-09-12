@@ -46,6 +46,7 @@ python3 lucii.py
 | 13 | CRYPTO & ENCODING| 10    | b64, ROT13, caesar brute, XOR, hash gen, openssl, steghide, cyberchef |
 | 14 | CLOUD ATTACK     | 7     | AWS/GCP/Azure metadata SSRF, S3 enum, docker registry, kubernetes |
 | 15 | MALWARE ANALYSIS | 7     | VirusTotal, PE analysis, strace, packer detect, deobfuscate PowerShell |
+| 16 | C2 FRAMEWORK     | 8     | Sliver C2 Server, Sliver Implant Gen, Havoc C2 Start, Covenant C2, SimpleHTTP C2, DNS C2 Setup, ICMP C2, Cobalt Strike Aggressor |
 
 ---
 
